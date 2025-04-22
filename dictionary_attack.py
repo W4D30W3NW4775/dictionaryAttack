@@ -25,7 +25,7 @@ ip = str(input("Enter valid IP: "))         #enter IP-Address
 port = int(input("Enter valid Port: "))     #enter port
 
 #open passwords file
-file_dicitonary = open("/home/parzival/Insync/b_budde@outlook.de/OneDrive/Informatik/005_programme/001_Python/500-worst-passwords.txt", "r")
+file_dicitonary = open("path/to/file, "r")
 
 
 #check connection
